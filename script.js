@@ -1,5 +1,5 @@
 
-//Erkennung Button Press
+//Erkennung Button Press - test comment
 
     var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
