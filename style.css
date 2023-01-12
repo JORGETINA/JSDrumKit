@@ -1,0 +1,46 @@
+
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1 {
+    font-size: 6rem;
+    color: rosybrown;
+    text-shadow: 3px 0 #DA8463;
+}
+set {
+    margin: 10% auto;
+}
+.pressed {
+    box-shadow: #DA8463;
+    opacity: 0.5;
+}
+.drum{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: Myanmar, cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA8463;
+    text-shadow: 3px 0 rosybrown;
+    border-radius: 15px;
+    display: inline-block;
+    width: 950px;
+    height: 650px;
+    text-align: center;
+    margin: 20px;
+}
+footer {
+    color: black;
+    font-family: sans-serif;
+}
+.l {
+    background-image: url("img/lion.jpg");
+}
+.w {
+    background-image: url("img/wolf.jpg");
+}
+.c {
+    background-image: url("img/cat.jpg");
+}
